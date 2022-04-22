@@ -1,0 +1,12 @@
+__pycache__
+/.idea
+/tasks
+test.py
+chromedriver.exe
+*csv
+*html
+*txt
+parse.py
+create_bd.py
+config.py
+Procfile
